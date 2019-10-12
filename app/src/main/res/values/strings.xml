@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="titulo">Ejercicio 3</string>
+    <string name="siguiente">Ir a pantalla 2</string>
+    <string name="siguiente2">Ir a pantalla 3</string>
+    <string name="descripcion">En este proyecto se cambia a la segunda pantalla automaticamente</string>
+    <string name="pantalla2">Hola esta es la Pantalla 2</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="nombre">Marquez Hernandez Brandon Miguel 7S11</string>
+</resources>
